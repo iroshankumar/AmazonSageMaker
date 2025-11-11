@@ -1,9 +1,3 @@
-Perfect 🔥 — you’ve built a complete **end-to-end AWS SageMaker ML project**, which is an excellent candidate for your GitHub portfolio.
-
-Here’s a professional, well-structured **README.md–style description** for your repo, explaining every step of your project — from data loading to model deployment and evaluation.
-You can copy-paste this directly into your GitHub project’s **README.md** file (or adapt it for documentation).
-
----
 
 # 🧠 Bank Marketing Prediction using AWS SageMaker (XGBoost)
 
@@ -225,12 +219,3 @@ to avoid incurring extra AWS costs.
 AWS SageMaker | Machine Learning Engineer
 📍 Built with Python, AWS SageMaker, and XGBoost
 🗓️ *Project Completed: November 2025*
-
----
-
-Would you like me to generate a ready-to-use `README.md` file (Markdown formatted) with badges, sections, and GitHub-friendly styling (emoji headers, copy-ready)?
-I can format it perfectly for your repository’s root.
-
-
-
-
